@@ -10,7 +10,7 @@ from urlparse import parse_qsl
 import xbmcgui
 import xbmcplugin
 
-# Get the plugin url in plugin:// notation.
+# Get the plugin url in plugin:// nmotation.
 _url = sys.argv[0]
 # Get the plugin handle as an integer number.
 _handle = int(sys.argv[1])
